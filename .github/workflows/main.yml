@@ -14,5 +14,5 @@ jobs:
         protocol: ftp
         server: ftp.legitcheck.online
         port: 21
-        username: adityakhawandi@legitcheck.online
+        username: adityakhawandi@app.legitcheck.online
         password: Kontol123!@
